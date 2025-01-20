@@ -1,2 +1,2 @@
 # Analytical-Report-For-Nigeria-Internally-Generated-Revenue-For-The-Year-2014_Taofeeq
-This Analytical report is about Nigeria Internally Generated Revenue for the year 2014,  the dataset was downloaded from Kaggle.com, cleaned with power query editor, and was visualized and analyzed using Microsoft PowerBI.
+This comprehensive analysis identifies critical strengths and weaknesses in Nigeria’s internally generated revenue landscape for 2014. It emphasizes revenue diversification, regional collaboration, modernizing tax systems, and leveraging successful states' models.This Dataset was downloaded from kaggle.com, cleaned with powerquery and I visualized with Microsoft PowerBI.
